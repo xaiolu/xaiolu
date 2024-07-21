@@ -19,7 +19,7 @@
 ### My Works
 
 <p>
-  <a href="https://xaiolu.github.io/"><img src="https://xaiolu.top/images/icon/logo.png" width=48% height=48% alt="xaiolu - 小盆友-个人网页"></a>
+  <a href="https://xaiolu.github.io/"><img src="https://xaiolu.top/images/icon/logo.png" width=58px height=58% alt="xaiolu - 小盆友-个人网页"></a>
   &nbsp;&nbsp;&nbsp;
 </p>
 <p>
@@ -33,8 +33,7 @@
   <a href="https://github.com/xaiolu?tab=repositories"><img src="./images/my-repos.png" width=48% alt="查看我的仓库"></a>
 </p>
 
-————————————————
 ————————————————<a href="https://xaiolu.github.io/"><img src="./images/hi.png" width=48% alt="xaiolu - 小盆友-个人网页"></a>
-&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
                           
