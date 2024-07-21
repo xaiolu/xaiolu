@@ -19,3 +19,6 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/xaiolu?tab=repositories"><img src="./images/my-repos.png" width=48% alt="查看我的仓库"></a>
 </p>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=xaiolu&show_icons=true&include_all_commits=true)](https://github.com/xaiolu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xaiolu&layout=compact)](https://github.com/xaiolu/github-readme-stats)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xaiolu&repo=YourRepositoryName)
