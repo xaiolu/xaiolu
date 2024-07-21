@@ -8,7 +8,6 @@
 <p>
   <a href="https://xaiolu.github.io/"><img src="https://xaiolu.top/images/icon/logo.png" width=48% height=48% alt="xaiolu - 小盆友-个人网页"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://xaiolu.top/LT.html"><img src="https://xaiolu.top/images/icon/logo.png" width=48% height=48% alt="个人 - 学习日记"></a>
 </p>
 <p>
   <a href="https://github.com/qier222/YesPlayMusic"><img src="./images/yesplaymusic.png" width=48% alt="YesPlayMusic - 高颜值的第三方网易云客户端"></a>
