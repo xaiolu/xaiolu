@@ -1,0 +1,2 @@
+git rm --cached .README.md
+git commit -m "Remove .README.md from the repository"
