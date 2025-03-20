@@ -23,7 +23,9 @@
   &nbsp;&nbsp;&nbsp;
 </p>
 <p>
-  <a href="https://github.com/qier222/YesPlayMusic"><img src="./images/yesplaymusic.png" width=48% alt="YesPlayMusic - 高颜值的第三方网易云客户端"></a>
+  <a href="https://ys.xaiolu.top/"><img src="https://xaiolu.top/images/icon/logo.png" width=48% alt="YesPlayMusic - 小盆友-导航页"></a>
+  &nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/qier222/YesPlayMusic"><img src="./images/yesplaymusic.png" width=48% alt="YesPlayMusic - 高颜值的第三方网易云客户端"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/xaiolu?tab=repositories"><img src="./images/my-repos.png" width=48% alt="查看我的仓库"></a>
 </p>
