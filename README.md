@@ -9,7 +9,7 @@
 
 按我跳转 --> [小路文章博客](//xn--yetq47i.top)
 
-按我跳转 --> [测试hugo博客](//xaiolu.github.io/hugo-stack)
+按我跳转 --> [测试hugo博客](//xaiolu.github.io/hugo-stack/)
 
 按我跳转 --> [小盆友的导航](//ys.xaiolu.top)
 
