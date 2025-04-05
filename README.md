@@ -1,8 +1,7 @@
 # <center>欢迎光临你访问-我的github.</center>
 # <center>Welcome to your visit</center>
 ## Hey 👋, This is xaiolu
-
-[![Mail Badge](https://img.shields.io/badge/-xaiolu.top@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:xaiolu.top@gmail.com)](mailto:xaiolu.top@gmail.com)[![Github Badge](https://img.shields.io/badge/-xaiolu-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xaiolu/)](https://www.github.com/xaiolu/)[![Mail Badge](https://img.shields.io/badge/-1071408545@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:1071408545@qq.com)](mailto:1071408545@qq.com)
+[![Github Badge](https://img.shields.io/badge/-xaiolu-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xaiolu/)](https://www.github.com/xaiolu/)[![Mail Badge](https://img.shields.io/badge/-xaiolu.top@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:xaiolu.top@gmail.com)](mailto:xaiolu.top@gmail.com)
 ## 📋个人简介
 
 **✍一个喜欢动手研究的i人**
