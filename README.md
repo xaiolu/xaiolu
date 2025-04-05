@@ -27,7 +27,7 @@
 
 ### ☕在忙的事
 
-- 更新[个人博客](//xn--yetq47i.top)
+- 更新[个人博客](//www.xn--yetq47i.top)
 - 摆弄 php 和 python
 - 学习 HTML、CSS 和 JavaScript 三兄弟
 
