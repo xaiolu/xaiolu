@@ -6,13 +6,15 @@
 ## 📋个人简介
 
 **✍一个喜欢写写小作品的人**
-按我跳转 --> [我的主页](//xaiolu.top)
+
 
 按我跳转 --> [小路文章博客](//xn--yetq47i.top)
 
 按我跳转 --> [测试hugo博客](//xaiolu.github.io/hugo-stack)
 
 按我跳转 --> [我的导航](//ys.xaiolu.top)
+
+按我跳转 --> [小盆友的主页](//xaiolu.top)
 
 通常以 [@xaiolu](//github.com/xaiolu) 的身份活跃在 [GitHub](//github.com)，也喜欢在哔哩哔哩以 [@xaiolu](https://space.bilibili.com/436231597) 的身份活跃，有时你也能在各大社交平台看见我，甚至有可能是 百度 服务器。
 
