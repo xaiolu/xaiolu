@@ -12,7 +12,7 @@
 
 按我跳转 --> [测试hugo博客](//xaiolu.github.io/hugo-stack)
 
-按我跳转 --> [我的导航](//ys.xaiolu.top)
+按我跳转 --> [小盆友导航](//ys.xaiolu.top)
 
 按我跳转 --> [小盆友的主页](//xaiolu.top)
 
