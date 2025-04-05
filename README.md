@@ -34,9 +34,7 @@
 
 ## 🥇个人项目
 
-<a href="https://ys.xaiolu.top/"><img src="https://xaiolu.top/images/icon/logo.png" width=48% alt="导航页 - 小盆友-导航页"></a>
-
-<a href="https://xn--yetq47i.top/"><img src="https://xn--yetq47i.top/usr/themes/Xc/favicon.png" width=48% alt="小路文章-我的博客"></a>
+<a href="https://ys.xaiolu.top/"><img src="https://xaiolu.top/images/icon/logo.png" width=48% alt="导航页 - 小盆友-导航页"></a><a href="https://xn--yetq47i.top/"><img src="https://xn--yetq47i.top/usr/themes/Xc/favicon.png" width=48% alt="小路文章-我的博客"></a>
 ~~是的，现在只有这个 report 拿得出手。~~
 ~~The above is pure nonsense。~~
 
