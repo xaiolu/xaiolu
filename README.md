@@ -15,7 +15,7 @@
 
 按我跳转 --> [小盆友的主页](//xaiolu.top)
 
-通常以 [@xaiolu](//github.com/xaiolu) 的身份活跃在 [GitHub](//github.com)，也喜欢在哔哩哔哩以 [@xaiolu](https://space.bilibili.com/436231597) 的身份活跃，有时你也能在各大社交平台看见我，甚至有可能是 百度 服务器。
+通常以 [@xaiolu](//github.com/xaiolu) 的身份活跃在 [GitHub](//github.com/xaiolu)，也喜欢在哔哩哔哩以 [@xaiolu](https://space.bilibili.com/436231597) 的身份活跃，有时你也能在各大社交平台看见我，甚至有可能是 百度 服务器。
 
 下面列出了我常用的编程语言和平台：
 
