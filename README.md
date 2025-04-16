@@ -89,9 +89,9 @@
 
 ## 🔗联系我
 
-以下两种联系方式都很欢迎！或者你也可以发送至这个邮箱：<a href="mailto:xaiolu.top@gmail.com">xaiolu.top@gmail.com</a><a href="mailto:107148545@qq.com">107148545@qq.com</a>
+以下两种联系方式都很欢迎！或者你也可以发送至这个邮箱：<a href="mailto:xaiolu.top@gmail.com">xaiolu.top@gmail.com</a>
 
-[![Static Badge](https://img.shields.io/badge/BLOG-m?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=%230288D1&color=%230288D1)](//www.xn--yetq47i.top/message.html) [![Static Badge](https://img.shields.io/badge/EMAIL-m?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=%23005FF9&color=%23005FF9)](mailto:x107148545@qq.com) [![Static Badge](https://img.shields.io/badge/EMAIL-m?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=%23005FF9&color=%23005FF9)](mailto:107148545@qq.com)
+[![Static Badge](https://img.shields.io/badge/BLOG-m?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=%230288D1&color=%230288D1)](//www.xn--yetq47i.top/message.html) [![Static Badge](https://img.shields.io/badge/Gmail-m?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=%23005FF9&color=%23005FF9)](mailto:xaiolu.top@gmail.com) [![Static Badge](https://img.shields.io/badge/QQmail-m?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=%23005FF9&color=%23005FF9)](mailto:107148545@qq.com)
 
 
 
