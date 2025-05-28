@@ -1,5 +1,19 @@
 # <center>欢迎光临你访问-我的github.</center>
+### Hi there, I'm xaiolu 👋
 # <center>Welcome to your visit</center>
+```
+吾志所向，一往无前。
+```
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
+
+**About Me:** 
+|   主&emsp;&emsp;页   | <https://xaiolu.top>                                      |
+| :------------: | :------------------------------------------------------- |
+| **博&emsp;&emsp;客** | **<https://www.xn--yetq47i.top/>**                            |
+| **小路个人引导页** | **<https://22s.top/>**          |
+| **小盆友导航页** | **<https://ys.xaiolu.top>**          |
+
+
 ## Hey 👋, This is xaiolu
 [![Github Badge](https://img.shields.io/badge/-xaiolu-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xaiolu/)](https://www.github.com/xaiolu/)[![Mail Badge](https://img.shields.io/badge/-xaiolu.top@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:xaiolu.top@gmail.com)](mailto:xaiolu.top@gmail.com)
 ## 📋个人简介
